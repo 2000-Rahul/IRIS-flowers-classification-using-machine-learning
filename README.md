@@ -18,6 +18,8 @@
 
  ![image](https://github.com/2000-Rahul/IRIS-flowers-classification-using-machine-learning/assets/136818857/b25329e4-1f5e-4f3b-8a55-40363f8ffdf9)
 
+ - This classification Model gives correct output
+
 ## IRIS flowers Dataset
 - Download dataset from here <br>
 https://www.kaggle.com/datasets/arshid/iris-flower-dataset
